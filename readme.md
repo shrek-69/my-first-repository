@@ -8,6 +8,10 @@ Markdown is simple text file format to write structured text
     - Two Hashes do a second leveld headline
     - Three Hashes: 
 
-### Third level
+### Befehle:
 
-We do not know what to write here...
+- git init -> creates local git repository
+
+- git add -> Bereitet alle Änderungen im aktuellen      Verzeichnis für den Commit vor.
+
+-
