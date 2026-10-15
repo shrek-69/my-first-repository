@@ -14,4 +14,6 @@ Markdown is simple text file format to write structured text
 
 - git add -> Bereitet alle Änderungen im aktuellen      Verzeichnis für den Commit vor.
 
--
+- git commit -> commited die änderungen
+
+- git log -> zeigt dir die Commit-Historie deines Git-Repositories
